@@ -6,6 +6,7 @@ public class MyJavaProgram {
 	public static void main(String[] args) {
 		
 		// START HERE
+	Robot foxnews =new Robot();
 	
 		
 		
